@@ -1,0 +1,19 @@
+Para resolver problema "llenalo con super":
+
+i) tipear por consola: 
+g++ llenalo_con_super.cpp 'camino minimo todos a todos.cpp' dijkstra_prioridad.cpp dijkstra_basico.cpp 
+
+ii) ejecutar el ejecutable obtenido con alguna entrada  
+
+iii) se mostrará por consola el nombre del algoritmo y su respectivo resultado, para cada
+uno de los 4 algoritmos.
+
+Para experimentos de "llenalo con super":
+
+i) abrir carpeta "data llenalo con super"
+ 
+ii) ejecutar por consola en esa carpeta: 
+	jupyter notebook
+
+iii) abrir: graficasTp2.ipynb
+

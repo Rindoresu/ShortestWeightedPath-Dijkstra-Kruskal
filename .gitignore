@@ -1,0 +1,9 @@
+CMakeList*
+cmake-build-debug/
+cmake-build-debug Lean/
+enunciado.pdf
+tp2.pdf
+.idea
+venv/
+Papers/
+Resultados clusterización/
